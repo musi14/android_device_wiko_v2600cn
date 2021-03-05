@@ -1,0 +1,2 @@
+# android_device_wiko_v2600cn
+device_tree_for_wiko_sunny2_plus
